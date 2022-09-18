@@ -1,0 +1,8 @@
+{
+  "name": "Number to whatsapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "77137a0a"
+}
